@@ -3,4 +3,4 @@
 ## Team Members are
 Alfas & Bharathwajan
 
-# Made some changes over the database.
+# The change which had done by the team is replaced at v2.0.
